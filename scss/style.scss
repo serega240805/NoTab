@@ -884,7 +884,7 @@ body {
     &__box-input {
         border: 1px solid #5c5c5c;
         border-radius: 10px;
-        padding: 30px 270px 30px 23px;
+        padding: 30px 252px 30px 23px;
         font-weight: 400;
         font-size: 18px;
         line-height: 25px;
@@ -903,7 +903,7 @@ body {
         font-weight: 400;
         font-size: 18px;
         line-height: 25px;
-        max-width: 1020px;
+        max-width: 986px;
         @include breakpoint(xs) {
             max-width: 345px;
             max-height: 140px;
